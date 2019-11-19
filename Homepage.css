@@ -1,0 +1,12 @@
+body{
+    margin: 20px;
+    background-color: antiquewhite;
+}
+
+.header{
+    background-color: aqua;
+    color: darkorchid;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
